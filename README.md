@@ -1,1 +1,1 @@
-# new-repo-template-family-page
+# workload-family
