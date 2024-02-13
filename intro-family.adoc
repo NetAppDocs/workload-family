@@ -1,0 +1,11 @@
+---
+permalink: intro-family.html
+keywords: 
+summary: 
+---
+= Page title goes here
+:icons: font
+:imagesdir: ./media/
+
+[.lead]
+// learn more about this file https://review.docs.netapp.com/us-en/docs-help/repo-family/setup-info-family.html

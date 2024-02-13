@@ -1,0 +1,12 @@
+settings:
+  name: "Product Name"
+  internal:
+    pdf_enabled: false
+  prod:
+    pdf_enabled: false
+  # harmony_enabled: true
+
+sidebar: 
+  entries:
+  - title: #repeat title of family page
+    url: /index.html
