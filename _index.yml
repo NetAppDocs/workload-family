@@ -1,24 +1,47 @@
-indexpage:
-  title: # single string
-  lead: # single paragraph, shown on the page
+product-family:
+  title: Workload Factory documentation
+  lead: "NetApp Workload Factory is a powerful life-cycle management service designed to help you optimize your workloads using Amazon FSx for NetApp ONTAP. Browse the docs by product area or use the search on the left to find content anywhere in the Workload Factory docs."
+  summary: "NetApp Workload Factory is a powerful life-cycle management service designed to help you optimize your workloads using Amazon FSx for NetApp ONTAP. Browse the docs by product area or use the search on the left to find content anywhere in the Workload Factory docs."
   sidebarlinks: 
-  # two or more filter definitions for the page
-    - title: All 
-      tags: # name for this filter
+    - title: All
+      tags: all
       class: active
-    - title: # first filter label
-      tags: # name for this filter 
-    # repeat as necessary   
+    - title: API
+      tags: api
+    - title: Setup and accounts
+      tags: admin
+    - title: Workloads
+      tags: workload
+    - title: Storage
+      tags: storage
   tiles:
-    # optional link to intro-family.adoc 
-    - title: 
-      icon: # ./media/ followed by the icon file name
-      url: intro-family.html
-      summary: 
-      tags:
-    # one or more tile definitions for the page
-    - title: 
-      icon: # ./media/ followed by the icon file name
-      url: # typically relative path url to member site
-      summary: 
-      tags:
+    - title: "Setup and administration"
+      icon: ./media/icon-admin.png
+      url: ../workload-setup-admin/index.html
+      summary: "Learn how to start using Workload Factory and administer accounts, users, and more."
+      tags: all,admin
+    - title: "Release notes"
+      icon: ./media/icon-docs.png
+      url: ../workload-relnotes/index.html
+      summary: "Learn what's new across all of Workload Factory."
+      tags: all
+    - title: "Amazon FSx for NetApp ONTAP"
+      icon: ./media/icon-fsx-storage.png
+      url: ../workload-fsx-ontap/index.html
+      summary: "Deploy and manage FSx for ONTAP file systems to use the full capabilities of ONTAP as a native, AWS-managed service."
+      tags: all,storage
+    - title: "VMware"
+      icon: ./media/icon-fsx-storage.png
+      url: ../workload-vmware/index.html
+      summary: "Streamline migrations and operations with smart recommendations and automatic remediations."
+      tags: all,workload
+    - title: "Databases"
+      icon: ./media/icon-fsx-storage.png
+      url: ../workload-databases/index.html
+      summary: "Deploy databases end-to-end with built-in best practices for optimization."
+      tags: all,workload
+    - title: "AI Studio"
+      icon: ./media/icon-fsx-storage.png
+      url: ../workload-ai-studio/index.html
+      summary: "Integrate FSx for ONTAP with your MLOps platforms and GenAI foundation models."
+      tags: all,workload
