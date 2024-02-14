@@ -31,17 +31,17 @@ product-family:
       summary: "Deploy and manage FSx for ONTAP file systems to use the full capabilities of ONTAP as a native, AWS-managed service."
       tags: all,storage
     - title: "VMware"
-      icon: ./media/icon-fsx-storage.png
+      icon: ./media/icon-vmware.png
       url: ../workload-vmware/index.html
       summary: "Streamline migrations and operations with smart recommendations and automatic remediations."
       tags: all,workload
     - title: "Databases"
-      icon: ./media/icon-fsx-storage.png
+      icon: ./media/icon-database.png
       url: ../workload-databases/index.html
       summary: "Deploy databases end-to-end with built-in best practices for optimization."
       tags: all,workload
     - title: "AI Studio"
-      icon: ./media/icon-fsx-storage.png
+      icon: ./media/icon-ai.png
       url: ../workload-ai-studio/index.html
       summary: "Integrate FSx for ONTAP with your MLOps platforms and GenAI foundation models."
       tags: all,workload
