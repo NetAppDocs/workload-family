@@ -33,15 +33,15 @@ product-family:
     - title: "VMware workloads"
       icon: ./media/icon-vmware.png
       url: ../workload-vmware/index.html
-      summary: "Streamline migrations and operations with smart recommendations and automatic remediations."
+      summary: "Streamline migrations from on-premises vSphere environments to VMware Cloud on AWS and implement customized FSx for ONTAP file systems as external datastores."
       tags: all,workload
     - title: "Database workloads"
       icon: ./media/icon-database.png
       url: ../workload-databases/index.html
-      summary: "Deploy databases end-to-end with built-in best practices for optimization."
+      summary: "Deploy databases end-to-end with built-in best practices for optimization using FSx for ONTAP file systems as external datastores."
       tags: all,workload
     - title: "AI workloads"
       icon: ./media/icon-ai.png
       url: ../workload-ai-studio/index.html
-      summary: "Integrate FSx for ONTAP with your MLOps platforms and GenAI foundation models."
+      summary: "Integrate FSx for ONTAP file systems with your MLOps platforms and GenAI foundation models."
       tags: all,workload
