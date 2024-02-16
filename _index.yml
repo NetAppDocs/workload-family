@@ -1,7 +1,7 @@
 product-family:
   title: Workload Factory documentation
   lead: "NetApp Workload Factory is a powerful life-cycle management service designed to help you optimize your workloads using Amazon FSx for NetApp ONTAP. Browse the docs by product area or use the search on the left to find content anywhere in the Workload Factory docs."
-  summary: "NetApp Workload Factory is a powerful life-cycle management service designed to help you optimize your workloads using Amazon FSx for NetApp ONTAP. Browse the docs by product area or use the search on the left to find content anywhere in the Workload Factory docs."
+  summary: "NetApp Workload Factory is a powerful life-cycle management service designed to help you optimize your workloads using Amazon FSx for NetApp ONTAP. Browse the docs by product area or use the search bar to find content anywhere in the Workload Factory docs."
   sidebarlinks: 
     - title: All
       tags: all
