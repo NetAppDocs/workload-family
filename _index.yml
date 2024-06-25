@@ -1,7 +1,7 @@
 product-family:
-  title: Workload Factory documentation
-  lead: "NetApp Workload Factory is a powerful life-cycle management platform designed to help you optimize your workloads using Amazon FSx for NetApp ONTAP. Browse the documentation by product area or use the search bar to find content anywhere in the Workload Factory docs."
-  summary: "NetApp Workload Factory is a powerful life-cycle management platform designed to help you optimize your workloads using Amazon FSx for NetApp ONTAP. Browse the documentation by product area or use the search bar to find content anywhere in the Workload Factory docs."
+  title: BlueXP Workload Factory for AWS documentation
+  lead: "BlueXP Workload Factory for AWS is a powerful life-cycle management platform designed to help you optimize your workloads using Amazon FSx for NetApp ONTAP. Browse the documentation by product area or use the search bar to find content anywhere in the Workload Factory docs."
+  summary: "BlueXP Workload Factory for AWS is a powerful life-cycle management platform designed to help you optimize your workloads using Amazon FSx for NetApp ONTAP. Browse the documentation by product area or use the search bar to find content anywhere in the Workload Factory docs."
   sidebarlinks: 
     - title: All
       tags: all
