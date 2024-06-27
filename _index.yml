@@ -30,7 +30,7 @@ product-family:
       url: https://console.workloads.netapp.com/api-doc
       summary: "Programmatically administer your Workload Factory resources."
       tags: all,api
-    - title: "AI workloads"
+    - title: "GenAI"
       icon: ./media/icon-ai.png
       url: https://review.docs.netapp.com/us-en/workload-ai-studio_first-draft/index.html
       summary: "Integrate data from your FSx for ONTAP file systems with your MLOps platforms and GenAI foundation models."
