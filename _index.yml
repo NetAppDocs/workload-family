@@ -30,15 +30,15 @@ product-family:
       url: https://console.workloads.netapp.com/api-doc
       summary: "Programmatically administer your Workload Factory resources."
       tags: all,api
-    - title: "GenAI"
-      icon: ./media/icon-ai.png
-      url: https://review.docs.netapp.com/us-en/workload-ai-studio_first-draft/index.html
-      summary: "Integrate data from your FSx for ONTAP file systems with your MLOps platforms and GenAI foundation models."
-      tags: all,workload
     - title: "Database workloads"
       icon: ./media/icon-database.png
       url: https://review.docs.netapp.com/us-en/workload-databases_first-draft/index.html
       summary: "Deploy databases end-to-end with built-in best practices for optimization using FSx for ONTAP file systems as external datastores."
+      tags: all,workload
+    - title: "GenAI"
+      icon: ./media/icon-ai.png
+      url: https://review.docs.netapp.com/us-en/workload-ai-studio_first-draft/index.html
+      summary: "Integrate data from your FSx for ONTAP file systems with your MLOps platforms and GenAI foundation models."
       tags: all,workload
     - title: "VMware workloads"
       icon: ./media/icon-vmware.png
