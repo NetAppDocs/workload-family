@@ -1,10 +1,10 @@
 NetApp provides support for Workload Factory and its cloud services in a variety of ways. Extensive free self-support options are available 24x7, such as knowledgebase (KB) articles and a community forum. Your support registration includes remote technical support via web ticketing.
 
-== Get support for a cloud provider file service
+== Get support for FSx for ONTAP
 
-For technical support related to a cloud provider file service, its infrastructure, or any solution using the service, refer to "Getting help" in the Workload Factory documentation for that product.
+For technical support related to FSx for ONTAP, its infrastructure, or any solution using the service, refer to "Getting help" in the Workload Factory documentation for that product.
 
-* link:https://docs.netapp.com/us-en/bluexp-fsx-ontap/start/concept-fsx-aws.html#getting-help[Amazon FSx for ONTAP^]
+link:https://docs.netapp.com/us-en/bluexp-fsx-ontap/start/concept-fsx-aws.html#getting-help[Amazon FSx for ONTAP^]
 
 To receive technical support specific to Workload Factory and its storage solutions and services, use the support options described below.
 
@@ -16,7 +16,7 @@ These options are available for free, 24 hours a day, 7 days a week:
 +
 The Workload Factory documentation that you're currently viewing.
 
-* https://kb.netapp.com/Cloud/BlueXP[Knowledge base^]
+* https://kb.netapp.com[Knowledge base^]
 +
 Search through the Workload Factory knowledge base to find helpful articles to troubleshoot issues.
 
@@ -30,13 +30,13 @@ In addition to the self-support options above, you can work with a NetApp Suppor
 
 .Before you get started
 
-To use the *Create a Case* capability, you must first associate your NetApp Support Site credentials with your Workload Factory login. https://docs.netapp.com/us-en/workload-setup-admin/task-manage-user-credentials.html[Learn how to manage credentials associated with your Workload Factory login^].
-
-//* If you're opening a case for an ONTAP system that has a serial number, then your NSS account must be associated with the serial number for that system.
+To use the *Create a Case* capability, you must first register for support. associate your NetApp Support Site credentials with your Workload Factory login. link:support-registration.html[Learn how to register for support].
 
 .Steps
 
-. In Workload Factory, select *Help > Support*.
+. In the upper right of the Workload Factory console, select *Help > Support*.
++
+Selecting this option opens the BlueXP console a new browser tab and loads the Support dashboard.
 
 . On the *Resources* page, choose one of the available options under Technical Support:
 
@@ -44,11 +44,7 @@ To use the *Create a Case* capability, you must first associate your NetApp Supp
 
 .. Select *Create a Case* to open a ticket with a NetApp Support specialist:
 +
-* *Service*: Select the service that the issue is associated with. For example, Workload Factory when specific to a technical support issue with workflows or functionality within the service.
-
-* *Working Environment*: If applicable to storage, select *Cloud Volumes ONTAP* or *On-Prem* and then the associated working environment.
-+
-The list of working environments are within scope of the BlueXP account, workspace, and Connector you have selected in the top banner of the service.
+* *Service*: Select *Workload Factory*.
 
 * *Case Priority*: Choose the priority for the case, which can be Low, Medium, High, or Critical.
 +
@@ -104,7 +100,9 @@ View the steps below for more details.
 
 .Steps
 
-. In BlueXP, select *Help > Support*.
+. In the upper right of the Workload Factory console, select *Help > Support*.
++
+Selecting this option opens the BlueXP console a new browser tab and loads the Support dashboard.
 
 . Select *Case Management* and if you're prompted, add your NSS account to BlueXP.
 +
