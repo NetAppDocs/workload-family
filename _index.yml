@@ -18,7 +18,7 @@ product-family:
     - title: "Setup and administration"
       icon: ./media/icon-admin.png
       url: https://review.docs.netapp.com/us-en/workload-setup-admin_first-draft/index.html
-      summary: "Learn how to start using Workload Factory and administer accounts, users, and more."
+      summary: "Learn how to start using Workload Factory, administer credentials, and use Codebox for automation."
       tags: all,admin
     - title: "Amazon FSx for NetApp ONTAP"
       icon: ./media/icon-storage.png
