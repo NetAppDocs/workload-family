@@ -38,7 +38,7 @@ product-family:
     - title: "GenAI"
       icon: ./media/icon-ai.png
       url: https://docs.netapp.com/us-en/workload-genai/index.html
-      summary: "Integrate data from your FSx for ONTAP file systems with your MLOps platforms and GenAI foundation models to create functional chatbots using organizational data."
+      summary: "Integrate data from your FSx for ONTAP file systems with your MLOps platforms and GenAI foundation models to create functional chatbots."
       tags: all,workload
     - title: "VMware workloads"
       icon: ./media/icon-vmware.png
