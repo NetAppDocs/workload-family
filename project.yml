@@ -1,12 +1,14 @@
 settings:
-  name: "Product Name"
+  name: BlueXP Workload Factory for AWS
+  platform: cloud
+  # search: workload-setup-admin,workload-fsx-ontap,workload-databases,workload-vmware,workload-genai
   internal:
     pdf_enabled: false
   prod:
     pdf_enabled: false
-  # harmony_enabled: true
-
+    harmony_enabled: true
+    lipi_enabled: false
 sidebar: 
   entries:
-  - title: #repeat title of family page
+  - title: All Workload Factory documentation
     url: /index.html
