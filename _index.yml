@@ -8,7 +8,7 @@ product-family:
       class: active
     - title: API
       tags: api
-    - title: Setup and accounts
+    - title: Setup and administration
       tags: admin
     - title: Workloads
       tags: workload
