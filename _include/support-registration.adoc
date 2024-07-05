@@ -62,11 +62,7 @@ If you are brand new to NetApp and you don't have an NSS account, follow each st
 +
 Selecting this option opens the BlueXP console a new browser tab and loads the Support dashboard.
 
-. In the upper right of the BlueXP console, select the Help icon, and select *Support*.
-+
-image:https://raw.githubusercontent.com/NetAppDocs/workload-family/main/media/screenshot-help-support.png[A screenshot of the Help menu where Support is the first option listed]
-
-. Locate your account ID serial number from the Support Registration page.
+. Locate your account ID serial number from the Support Resources page.
 +
 image:https://raw.githubusercontent.com/NetAppDocs/workload-family/main/media/screenshot-serial-number.png[A screenshot of the Help menu where Support is the first option listed]
 
