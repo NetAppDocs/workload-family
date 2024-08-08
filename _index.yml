@@ -20,6 +20,11 @@ product-family:
       url: https://docs.netapp.com/us-en/workload-setup-admin/index.html
       summary: "Learn how to start using Workload Factory, administer credentials, and use Codebox for automation."
       tags: all,admin
+    - title: "Release notes"
+      icon: ./media/icon-docs.png
+      url: ../workload-relnotes/index.html
+      summary: "Learn what's new across all of Workload Factory."
+      tags: all
     - title: "Amazon FSx for NetApp ONTAP"
       icon: ./media/icon-storage.png
       url: https://docs.netapp.com/us-en/workload-fsx-ontap/index.html
