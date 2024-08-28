@@ -22,7 +22,7 @@ product-family:
       tags: all,admin
     - title: "Release notes"
       icon: ./media/icon-docs.png
-      url: ../workload-relnotes/index.html
+      url: https://docs.netapp.com/us-en/workload-relnotes/whats-new.html
       summary: "Learn what's new across all of Workload Factory."
       tags: all
     - title: "Amazon FSx for NetApp ONTAP"
