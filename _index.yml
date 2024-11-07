@@ -1,7 +1,7 @@
 product-family:
-  title: BlueXP Workload Factory for AWS documentation
-  lead: "BlueXP Workload Factory for AWS is a powerful life-cycle management platform designed to help you optimize your workloads using Amazon FSx for NetApp ONTAP. Browse the documentation by workload type or use the search bar to find content anywhere in the Workload Factory docs."
-  summary: "BlueXP Workload Factory for AWS is a powerful life-cycle management platform designed to help you optimize your workloads using Amazon FSx for NetApp ONTAP. Browse the documentation by workload type or use the search bar to find content anywhere in the Workload Factory docs."
+  title: BlueXP workload factory documentation
+  lead: "BlueXP workload factory is a powerful life-cycle management platform designed to help you optimize your workloads using Amazon FSx for NetApp ONTAP. Browse the documentation by workload type or use the search bar to find content anywhere in the workload factory docs."
+  summary: "BlueXP workload factory is a powerful life-cycle management platform designed to help you optimize your workloads using Amazon FSx for NetApp ONTAP. Browse the documentation by workload type or use the search bar to find content anywhere in the workload factory docs."
   sidebarlinks: 
     - title: All
       tags: all
@@ -18,14 +18,14 @@ product-family:
     - title: "Setup and administration"
       icon: ./media/icon-admin.png
       url: https://docs.netapp.com/us-en/workload-setup-admin/index.html
-      summary: "Learn how to start using Workload Factory, administer credentials, and use Codebox for automation."
+      summary: "Learn how to start using workload factory, administer credentials, and use Codebox for automation."
       tags: all,admin
     - title: "Release notes"
       icon: ./media/icon-docs.png
       url: https://docs.netapp.com/us-en/workload-relnotes/whats-new.html
-      summary: "Learn what's new across all of Workload Factory."
+      summary: "Learn what's new across all of workload factory."
       tags: all
-    - title: "Amazon FSx for NetApp ONTAP"
+    - title: "Storage"
       icon: ./media/icon-storage.png
       url: https://docs.netapp.com/us-en/workload-fsx-ontap/index.html
       summary: "Deploy and manage FSx for ONTAP file systems to use the full capabilities of ONTAP as a native, AWS-managed service."
@@ -33,9 +33,9 @@ product-family:
     - title: "API"
       icon: ./media/icon-api.png
       url: https://console.workloads.netapp.com/api-doc
-      summary: "Programmatically administer your Workload Factory resources."
+      summary: "Programmatically administer your workload factory resources."
       tags: all,api
-    - title: "Database workloads"
+    - title: "Databases"
       icon: ./media/icon-database.png
       url: https://docs.netapp.com/us-en/workload-databases/index.html
       summary: "Deploy databases end-to-end with built-in best practices for optimization using FSx for ONTAP file systems as external datastores."
@@ -45,7 +45,7 @@ product-family:
       url: https://docs.netapp.com/us-en/workload-genai/index.html
       summary: "Integrate data from your FSx for ONTAP file systems with your MLOps platforms and GenAI foundation models to create functional chatbots."
       tags: all,workload
-    - title: "VMware workloads"
+    - title: "VMware"
       icon: ./media/icon-vmware.png
       url: https://docs.netapp.com/us-en/workload-vmware/index.html
       summary: "Streamline migrations from on-premises vSphere environments to VMware Cloud on AWS and implement customized FSx for ONTAP file systems as external datastores."
