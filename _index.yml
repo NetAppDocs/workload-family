@@ -53,5 +53,5 @@ product-family:
     - title: "Builders"
       icon: ./media/icon-builders.png
       url: https://docs.netapp.com/us-en/workload-builders/index.html
-      summary: "Simplify software version consumption and access by enabling instant clones integrated with Perforce Helix Core, saving time and resources."
+      summary: "Simplify software version consumption and access by enabling instant clones integrating with version control systems and CI/CD flows, saving time and resources."
       tags: all,workload
