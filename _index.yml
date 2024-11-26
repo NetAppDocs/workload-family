@@ -25,16 +25,16 @@ product-family:
       url: https://docs.netapp.com/us-en/workload-relnotes/whats-new.html
       summary: "Learn what's new across all of workload factory."
       tags: all
-    - title: "Storage"
-      icon: ./media/icon-storage.png
-      url: https://docs.netapp.com/us-en/workload-fsx-ontap/index.html
-      summary: "Deploy and manage FSx for ONTAP file systems to use the full capabilities of ONTAP as a native, AWS-managed service."
-      tags: all,storage
     - title: "API"
       icon: ./media/icon-api.png
       url: https://console.workloads.netapp.com/api-doc
       summary: "Programmatically administer your workload factory resources."
       tags: all,api
+    - title: "Builders"
+      icon: ./media/icon-builders.png
+      url: https://docs.netapp.com/us-en/workload-builders/index.html
+      summary: "Simplify software version consumption and access by enabling instant clone integration with version control systems and CI/CD flows, saving time and resources."
+      tags: all,workload
     - title: "Databases"
       icon: ./media/icon-database.png
       url: https://docs.netapp.com/us-en/workload-databases/index.html
@@ -45,13 +45,13 @@ product-family:
       url: https://docs.netapp.com/us-en/workload-genai/index.html
       summary: "Integrate data from your FSx for ONTAP file systems with your MLOps platforms and GenAI foundation models to create functional chatbots."
       tags: all,workload
+    - title: "Storage"
+      icon: ./media/icon-storage.png
+      url: https://docs.netapp.com/us-en/workload-fsx-ontap/index.html
+      summary: "Deploy and manage FSx for ONTAP file systems to use the full capabilities of ONTAP as a native, AWS-managed service."
+      tags: all,storage
     - title: "VMware"
       icon: ./media/icon-vmware.png
       url: https://docs.netapp.com/us-en/workload-vmware/index.html
       summary: "Streamline migrations from on-premises vSphere environments to VMware Cloud on AWS and implement customized FSx for ONTAP file systems as external datastores."
-      tags: all,workload
-    - title: "Builders"
-      icon: ./media/icon-builders.png
-      url: https://docs.netapp.com/us-en/workload-builders/index.html
-      summary: "Simplify software version consumption and access by enabling instant clones integrating with version control systems and CI/CD flows, saving time and resources."
       tags: all,workload
