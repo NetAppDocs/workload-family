@@ -1,6 +1,6 @@
-Support registration is required to receive technical support specific to Workload Factory and its storage solutions and services. You must register for support from the BlueXP console, which is a separate web-based console from Workload Factory.
+Support registration is required to receive technical support specific to BlueXP workload factory and its storage solutions and services. You must register for support from the BlueXP console, which is a separate web-based console from workload factory.
 
-Registering for support does not enable NetApp support for a cloud provider file service. For technical support related to a cloud provider file service, its infrastructure, or any solution using the service, refer to "Getting help" in the Workload Factory documentation for that product.
+Registering for support does not enable NetApp support for a cloud provider file service. For technical support related to a cloud provider file service, its infrastructure, or any solution using the service, refer to "Getting help" in the workload factory documentation for that product.
 
 link:https://docs.netapp.com/us-en/bluexp-fsx-ontap/start/concept-fsx-aws.html#getting-help[Amazon FSx for ONTAP^]
 
@@ -20,7 +20,7 @@ If you're a NetApp customer with an NSS account, you simply need to register for
 
 .Steps
 
-. In the upper right of the Workload Factory console, select *Help > Support*.
+. In the upper right of the workload factory console, select *Help > Support*.
 +
 Selecting this option opens the BlueXP console a new browser tab and loads the Support dashboard.
 
@@ -58,7 +58,7 @@ If you are brand new to NetApp and you don't have an NSS account, follow each st
 
 .Steps
 
-. In the upper right of the Workload Factory console, select *Help > Support*.
+. In the upper right of the workload factory console, select *Help > Support*.
 +
 Selecting this option opens the BlueXP console a new browser tab and loads the Support dashboard.
 
