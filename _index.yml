@@ -17,12 +17,12 @@ product-family:
   tiles:
     - title: "Setup and administration"
       icon: ./media/icon-admin.png
-      url: https://docs.netapp.com/us-en/workload-setup-admin/index.html
+      url: ../workload-setup-admin/index.html
       summary: "Learn how to start using workload factory, administer credentials, and use Codebox for automation."
       tags: all,admin
     - title: "Release notes"
       icon: ./media/icon-docs.png
-      url: https://docs.netapp.com/us-en/workload-relnotes/whats-new.html
+      url: ../workload-relnotes/whats-new.html
       summary: "Learn what's new across all of workload factory."
       tags: all
     - title: "API"
@@ -32,26 +32,26 @@ product-family:
       tags: all,api
     - title: "Builders"
       icon: ./media/icon-builders.png
-      url: https://docs.netapp.com/us-en/workload-builders/index.html
+      url: ../workload-builders/index.html
       summary: "Simplify software version consumption and access by enabling instant clone integration with version control systems and CI/CD flows, saving time and resources."
       tags: all,workload
     - title: "Databases"
       icon: ./media/icon-database.png
-      url: https://docs.netapp.com/us-en/workload-databases/index.html
+      url: ../workload-databases/index.html
       summary: "Deploy databases end-to-end with built-in best practices for optimization using FSx for ONTAP file systems as external datastores."
       tags: all,workload
     - title: "GenAI"
       icon: ./media/icon-ai.png
-      url: https://docs.netapp.com/us-en/workload-genai/index.html
+      url: ../workload-genai/index.html
       summary: "Integrate data from your FSx for ONTAP file systems with your MLOps platforms and GenAI foundation models to create functional chatbots."
       tags: all,workload
     - title: "Storage"
       icon: ./media/icon-storage.png
-      url: https://docs.netapp.com/us-en/workload-fsx-ontap/index.html
+      url: ../workload-fsx-ontap/index.html
       summary: "Deploy and manage FSx for ONTAP file systems to use the full capabilities of ONTAP as a native, AWS-managed service."
       tags: all,storage
     - title: "VMware"
       icon: ./media/icon-vmware.png
-      url: https://docs.netapp.com/us-en/workload-vmware/index.html
+      url: ../workload-vmware/index.html
       summary: "Streamline migrations from on-premises vSphere environments to VMware Cloud on AWS and implement customized FSx for ONTAP file systems as external datastores."
       tags: all,workload
