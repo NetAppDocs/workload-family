@@ -7,4 +7,4 @@ You can use BlueXP workload factory with the following tools:
 * *CloudShell CLI*: Workload factory includes a CloudShell CLI to manage and operate AWS and NetApp environments across accounts from a single, browser-based CLI. Access CloudShell from the top bar of the workload factory console.
 * *REST API*: Use the workload factory REST APIs to deploy and manage your FSx for ONTAP file systems and other AWS resources.
 * *CloudFormation*: Use AWS CloudFormation code to perform the actions you defined in the workload factory console to model, provision, and manage AWS and third-party resources from the CloudFormation stack in your AWS account.
-* *Terraform BlueXP workload factory Provider*: Use Terraform to build and manage infrastructure workflows generated in the workload factory console.
+* *Terraform BlueXP workload factory provider*: Use Terraform to build and manage infrastructure workflows generated in the workload factory console.
