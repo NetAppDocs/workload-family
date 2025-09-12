@@ -1,1 +1,1 @@
-https://docs.netapp.com/us-en/workload-family/media/workload-factory-notice.pdf[BlueXP workload factory^]
+https://docs.netapp.com/us-en/workload-family/media/workload-factory-notice.pdf[NetApp Workload Factory^]
