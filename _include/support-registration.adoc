@@ -2,7 +2,7 @@ Support registration is required to receive technical support specific to NetApp
 
 Registering for support does not enable NetApp support for a cloud provider file service. For technical support related to a cloud provider file service, its infrastructure, or any solution using the service, refer to "Getting help" in the Workload Factory documentation for that product.
 
-link:https://docs.netapp.com/us-en/bluexp-fsx-ontap/start/concept-fsx-aws.html#getting-help[Amazon FSx for ONTAP^]
+link:https://docs.netapp.com/us-en/storage-management-fsx-ontap/start/concept-fsx-aws.html#getting-help[Amazon FSx for ONTAP^]
 
 == Support registration overview
 
