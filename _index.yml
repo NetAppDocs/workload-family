@@ -1,7 +1,7 @@
 product-family:
-  title: BlueXP workload factory documentation
-  lead: "BlueXP workload factory is a powerful life-cycle management platform designed to help you optimize your workloads using Amazon FSx for NetApp ONTAP. Browse the documentation by workload type or use the search bar to find content anywhere in the workload factory docs."
-  summary: "BlueXP workload factory is a powerful life-cycle management platform designed to help you optimize your workloads using Amazon FSx for NetApp ONTAP. Browse the documentation by workload type or use the search bar to find content anywhere in the workload factory docs."
+  title: NetApp Workload Factory documentation
+  lead: "NetApp Workload Factory is a powerful life-cycle management platform designed to help you optimize your workloads using Amazon FSx for NetApp ONTAP. Browse the documentation by workload type or use the search bar to find content anywhere in the workload factory docs."
+  summary: "NetApp Workload Factory is a powerful life-cycle management platform designed to help you optimize your workloads using Amazon FSx for NetApp ONTAP. Browse the documentation by workload type or use the search bar to find content anywhere in the workload factory docs."
   sidebarlinks: 
     - title: All
       tags: all
@@ -18,17 +18,17 @@ product-family:
     - title: "Setup and administration"
       icon: ./media/icon-admin.png
       url: ../workload-setup-admin/index.html
-      summary: "Learn how to start using workload factory, administer credentials, and use Codebox for automation."
+      summary: "Learn how to start using Workload Factory, administer credentials, and use Codebox for automation."
       tags: all,admin
     - title: "Release notes"
       icon: ./media/icon-docs.png
       url: ../workload-relnotes/whats-new.html
-      summary: "Learn what's new across all of workload factory."
+      summary: "Learn what's new across all of Workload Factory."
       tags: all
     - title: "API"
       icon: ./media/icon-api.png
       url: https://console.workloads.netapp.com/api-doc
-      summary: "Programmatically administer your workload factory resources."
+      summary: "Programmatically administer your Workload Factory resources."
       tags: all,api
     - title: "Builders"
       icon: ./media/icon-builders.png
