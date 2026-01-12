@@ -32,8 +32,8 @@ product-family:
       tags: all,api
     - title: "EDA"
       icon: ./media/icon-builders.png 
-      url: ../workload-builders/index.html
-      summary: "Optimize FSx for ONTAP across multiple file systems to boost performance and reduce operational costs through automated storage parameter management."
+      url: ../workload-eda/index.html
+      summary: "Optimize FSx for ONTAP performance and costs across multiple file systems with automated storage management."
       tags: all,workload
     - title: "Databases"
       icon: ./media/icon-database.png
