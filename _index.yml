@@ -45,5 +45,5 @@ product-family:
       tags: all,workload
     - title: "Information security"
       url: ../workload-infosec/index.html
-      summary: "Learn about Workload Factory's security features, and how to evaluate and onboard it to support enterprise security requirements."
+      summary: "Learn about the security features of Workload Factory, and how to evaluate and onboard the platform to support enterprise security requirements."
       tags: all,workload
