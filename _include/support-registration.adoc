@@ -34,7 +34,7 @@ Selecting this option opens the NetApp Console in a new browser tab and loads th
 +
 The *Resources* page should show that your account is registered for support.
 +
-image:https://raw.githubusercontent.com/NetAppDocs/workload-family/main/media/screenshot-support-registration.png[A screenshot that shows an account serial number and a green checkbox and the text Registered for support.]
+image:screenshot-support-registration.png[A screenshot that shows an account serial number and a green checkbox and the text Registered for support.]
 +
 Note that other NetApp Console users will not see this same support registration status if they have not associated a NetApp Support Site account with their NetApp Console login. However, that doesn't mean that your NetApp account is not registered for support. As long as one user in the account has followed these steps, then your account has been registered.
 
@@ -64,7 +64,7 @@ Selecting this option opens the NetApp Console in a new browser tab and loads th
 
 . Locate your account ID serial number from the Support Resources page.
 +
-image:https://raw.githubusercontent.com/NetAppDocs/workload-family/main/media/screenshot-serial-number.png[A screenshot of the Help menu where Support is the first option listed]
+image:screenshot-serial-number.png[A screenshot of the Help menu where Support is the first option listed]
 
 . Navigate to https://register.netapp.com[NetApp's support registration site^] and select *I am not a registered NetApp Customer*.
 
