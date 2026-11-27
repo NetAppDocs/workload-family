@@ -59,7 +59,7 @@ To learn more details about these priorities, hover your mouse over the informat
 Attachments are limited to 25 MB per file. The following file extensions are supported: txt, log, pdf, jpg/jpeg, rtf, doc/docx, xls/xlsx, and csv.
 
 +
-image:https://raw.githubusercontent.com/NetAppDocs/workload-family/main/media/screenshot-create-case.png[A screenshot of the Create a Case form that enables you to create a case with NetApp Support.]
+image:screenshot-create-case.png[A screenshot of the Create a Case form that enables you to create a case with NetApp Support.]
 
 .After you finish
 
@@ -114,17 +114,17 @@ The *Case management* page shows open cases related to the NSS account that is a
 
 * Modify the date range by choosing an exact date range or by choosing a different time frame. 
 +
-image:https://raw.githubusercontent.com/NetAppDocs/workload-family/main/media/screenshot-case-management-date-range.png["A screenshot of the option above the table on the Case management page that enables you to choose an exact date range or the last 7 days, 30 days, or 3 months."]
+image:screenshot-case-management-date-range.png["A screenshot of the option above the table on the Case management page that enables you to choose an exact date range or the last 7 days, 30 days, or 3 months."]
 
 * Filter the contents of the columns.
 +
-image:https://raw.githubusercontent.com/NetAppDocs/workload-family/main/media/screenshot-case-management-filter.png[A screenshot of the filter option in the Status column that enables you to filter out cases that match a specific status such as Active or Closed.]
+image:screenshot-case-management-filter.png[A screenshot of the filter option in the Status column that enables you to filter out cases that match a specific status such as Active or Closed.]
 
-* Change the columns that appear in the table by selecting image:https://raw.githubusercontent.com/NetAppDocs/workload-family/main/media/icon-table-columns.png[The plus icon that appears in the table] and then choosing the columns that you'd like to display.
+* Change the columns that appear in the table by selecting image:icon-table-columns.png[The plus icon that appears in the table] and then choosing the columns that you'd like to display.
 +
-image:https://raw.githubusercontent.com/NetAppDocs/workload-family/main/media/screenshot-case-management-columns.png[A screenshot that shows the columns that you can show in the table.]
+image:screenshot-case-management-columns.png[A screenshot that shows the columns that you can show in the table.]
 
-. Manage an existing case by selecting image:https://raw.githubusercontent.com/NetAppDocs/workload-family/main/media/icon-table-action.png[An icon with three dots that appears in the last column of the table] and selecting one of the available options:
+. Manage an existing case by selecting image:icon-table-action.png[An icon with three dots that appears in the last column of the table] and selecting one of the available options:
 
 * *View case*: View full details about a specific case.
 
@@ -135,4 +135,4 @@ Attachments are limited to 25 MB per file. The following file extensions are sup
 * *Close case*: Provide details about why you're closing the case and select *Close case*.
 
 +
-image:https://raw.githubusercontent.com/NetAppDocs/workload-family/main/media/screenshot-case-management-actions.png[A screenshot that shows the actions that you can take after selecting the menu in the last column of the table.]
+image:screenshot-case-management-actions.png[A screenshot that shows the actions that you can take after selecting the menu in the last column of the table.]
